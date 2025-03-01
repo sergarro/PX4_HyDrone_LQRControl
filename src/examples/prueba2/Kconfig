@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_PRUEBA2
+	bool "prueba2"
+	default n
+	---help---
+		Enable support for prueba2
